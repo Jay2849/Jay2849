@@ -1,26 +1,4 @@
-<table>
-<tr>
 
-<td width="40%">
-
-<p align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="lang-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="lang-light.gif">
-    <img width="100%" src="lang.gif" alt="lang image here"/>
-</picture>
-</p>
-
-</td>
-
-<td width="60%">
-
-
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <br clear="both">
 ## 🌐 Socials:
@@ -48,3 +26,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
